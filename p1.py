@@ -1,6 +1,5 @@
 # p1.py: Cylinder Geometry
 # Created By: Jae Cho
-# E-mail: jhcho@email.wm.edu
 # Find volume and surface area of a cylinder from its radius, height, and width.
 # Step 1: Prompt for a radius and echo print the radius.
 # Step 2: Do the same for the height and width of the cylinder.
