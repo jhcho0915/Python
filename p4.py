@@ -1,6 +1,5 @@
 # p4.py: Data Mining
 # Created by: Jae Cho
-# E-mail: jhcho@email.wm.edu
 #
 # This program prompts the user to input the name of a datafile, in particular
 # Google and Cisco. The program calculates the monthly average prices of the 
