@@ -1,7 +1,5 @@
 # p6.py Football
 # Created by: Jae Cho
-# 07/01/16
-# E-mail: jhcho@email.wm.edu
 #
 # The National Football League (NFL) is North America's professional league for
 # men's football. This program helps to locate information about a particular
