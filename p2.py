@@ -1,7 +1,6 @@
 # p2.py: Medical Diagnostic System
 # Created By: Jae Cho
 # E-mail: jhcho@email.wm.edu
-# 06/14/16
 #
 # The program performs as a basic tool for medical diagnosis. This tool behaves as a human expert for a particular application domain.
 # This program is essentially a rule-based system that performs a series of queries to determine the situation at hand so that it can determine which of its rules apply. 
