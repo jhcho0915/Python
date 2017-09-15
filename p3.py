@@ -1,6 +1,5 @@
 # p3.py: Word Puzzles
 # Created by: Jae Cho
-# E-mail: jhcho@email.wm.edu
 
 # This project is about files,strings and procedures and allows the 
 # user to choose a word game to play.
