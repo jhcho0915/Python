@@ -1,6 +1,5 @@
 # p5.py: More Data Mining
 # Created By: Jae Cho
-# E-mail: jhcho@email.wm.edu
 #
 # Data mining is the process of sorting through large amounts of data and
 # picking out relevant information. It is usually used by business intelligence
