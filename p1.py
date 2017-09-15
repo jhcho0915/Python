@@ -37,7 +37,7 @@ print("                  Volume = %9.3f" % volume)
 print("            Surface area = %9.3f" % surface_area)
 print()
 print("-------------------------------------\n")
-print("Thank you for using this program Professor T. Davis.")
+print("Thank you for using this program.")
 
 
 
