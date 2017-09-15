@@ -1,6 +1,5 @@
 # p5.py: More Data Mining
 # Created By: Jae Cho
-# 07/01/16
 # E-mail: jhcho@email.wm.edu
 #
 # Data mining is the process of sorting through large amounts of data and
